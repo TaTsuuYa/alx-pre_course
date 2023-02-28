@@ -1,0 +1,2 @@
+echo "#!/bin/bash" > shcool
+echo "School"
